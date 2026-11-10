@@ -1,7 +1,6 @@
 # TP7 — PDO y CRUD de productos
 
-**Proyecto:** Lunar MCA / Impact Fight  
-**Materia:** Programación Web
+**Proyecto:** Impact Fight
 
 ## Objetivo del trabajo
 
